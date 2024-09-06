@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026802951375",
+    "project_id": "prajwal-portfolio-e7422",
+    "storage_bucket": "prajwal-portfolio-e7422.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026802951375:android:745eb7ddc31abee49ec3ba",
+        "android_client_info": {
+          "package_name": "com.example.prajwal_portfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiFM1o9lyqsIbx5wIt9TYdXApMEOLhDfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
